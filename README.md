@@ -20,3 +20,6 @@ High level experience in Graphic Design and Fine Arts. Currently taking a Softwa
 <img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=flat-square&logo=Adobe XD&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat-square&logo=Adobe Premiere Pro&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Adobe Lightroom-31A8FF?style=flat-square&logo=Adobe Lightroom&logoColor=white"/></a>
+
+## 🔗 Connect
+[Portfolio](#https://jennielee.netlify.app/) | [LinkedIn](#https://www.linkedin.com/in/hyunju-jennie-lee-405186177/) | [Dribbble](#https://dribbble.com/JenHLee) | [Instagram](#https://www.instagram.com/bravehien/)
