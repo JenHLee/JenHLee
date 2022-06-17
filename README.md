@@ -4,7 +4,7 @@ Software Development Student
 High level experience in Graphic Design and Fine Arts. Currently taking a Software Development diploma course, learning to become a full-stack developer.
 
 ## :sparkles: Currently Working
-Vanila JS Chrome App (Momentum)
+React Blog
 
 ## 💻 Tech Skills
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
