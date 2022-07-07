@@ -10,9 +10,12 @@ High level experience in Graphic Design and Fine Arts. Currently taking a Softwa
 ## :sparkles: Currently Working
 React Blog
 
-- 🌱 I’m currently learning **React.js, Node.js, MongoDB**
+## 🌱 Currently Learning
+React.js, Node.js, MongoDB
 
-- 📫 How to reach me **hj.jennie.lee@gmail.com**
+## 📫 How to reach me 
+hj.jennie.lee@gmail.com
+[Portfolio](https://jennielee.netlify.app/)
 
 ## 💻 Tech Skills
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
@@ -37,7 +40,6 @@ React Blog
 <img src="https://img.shields.io/badge/Adobe Lightroom-31A8FF?style=flat-square&logo=Adobe Lightroom&logoColor=white"/></a>
 
 ## 🔗 Connect
-[Portfolio](https://jennielee.netlify.app/)
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/hyunju-jennie-lee-405186177/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hyunju-jennie-lee-405186177/" height="30" width="40" /></a>
 <a href="https://dribbble.com/jenhlee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="jenhlee" height="30" width="40" /></a>
 <a href="https://www.instagram.com/bravehien/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@bravehien" height="30" width="40" /></a>
