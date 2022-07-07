@@ -14,7 +14,7 @@ React Blog
 React.js, Node.js, MongoDB
 
 ## 📫 How to reach me 
-hj.jennie.lee@gmail.com
+hj.jennie.lee@gmail.com <br>
 [Portfolio](https://jennielee.netlify.app/)
 
 ## 💻 Tech Skills
