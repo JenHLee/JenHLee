@@ -6,6 +6,21 @@ High level experience in Graphic Design and Fine Arts. Currently taking a Softwa
 ## :sparkles: Currently Working
 React Blog
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JenHLee&label=Profile%20views&color=0e75b6&style=flat" alt="JennieLee" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JenHLee" alt="JennieLee" /></a> </p>
+
+- 🌱 I’m currently learning **React.js, Node.js, MongoDB**
+
+- 📫 How to reach me **hj.jennie.lee@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/hyunju-jennie-lee-405186177/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hyunju-jennie-lee-405186177/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/bravehien/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@bravehien" height="30" width="40" /></a>
+</p>
+
+
 ## 💻 Tech Skills
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
