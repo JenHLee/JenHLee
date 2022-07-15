@@ -40,7 +40,7 @@ hj.jennie.lee@gmail.com <br>
 <img src="https://img.shields.io/badge/Adobe Lightroom-31A8FF?style=flat-square&logo=Adobe Lightroom&logoColor=white"/></a>
 
 ## 🔗 Connect
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/hyunju-jennie-lee-405186177/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hyunju-jennie-lee-405186177/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hyunju-jennie-lee-405186177/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hyunju-jennie-lee-405186177/" height="30" width="40" /></a>
 <a href="https://dribbble.com/jenhlee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="jenhlee" height="30" width="40" /></a>
 <a href="https://www.instagram.com/bravehien/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@bravehien" height="30" width="40" /></a>
 </p>
