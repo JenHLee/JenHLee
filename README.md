@@ -8,7 +8,7 @@ High level experience in Graphic Design and Fine Arts. Currently taking a Softwa
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JenHLee" alt="JennieLee" /></a> </p>
 
 ## :sparkles: Currently Working
-React Blog
+React Blog, mern-netflix-app
 
 ## 🌱 Currently Learning
 React.js, Node.js, MongoDB
