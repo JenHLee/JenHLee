@@ -1,4 +1,4 @@
-# Hi there👋, I'm Jennie! 
+# Hi there! I'm Jennie <img src="https://i.pinimg.com/originals/51/12/5d/51125d9904b0aab078e2f7d0cbf37d8a.gif" width="50" height="auto"/> 
 ## About Me
 Software Development Student
 High level experience in Graphic Design and Fine Arts.<br> 
