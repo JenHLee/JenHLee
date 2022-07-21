@@ -9,7 +9,7 @@ High level experience in Graphic Design and Fine Arts. Currently taking a Softwa
 
 ## :sparkles: Currently Working
 <img src="https://i.pinimg.com/originals/87/df/6d/87df6d60f4cc3c07968ae2127bddcc30.gif" width="300" height="auto"/>
-React Blog, mern-netflix-app
+[React Blog](https://github.com/JenHLee/react-blog) , [mern-netflix-app](https://github.com/JenHLee/mern-netflix-app)
 
 ## 🌱 Currently Learning
 React.js, Node.js, MongoDB
