@@ -8,8 +8,8 @@ High level experience in Graphic Design and Fine Arts. Currently taking a Softwa
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JenHLee" alt="JennieLee" /></a> </p>
 
 ## :sparkles: Currently Working
-<img src="https://i.pinimg.com/originals/87/df/6d/87df6d60f4cc3c07968ae2127bddcc30.gif" width="300" height="auto"/>
-[React Blog](https://github.com/JenHLee/react-blog) , [mern-netflix-app](https://github.com/JenHLee/mern-netflix-app)
+<img src="https://i.pinimg.com/originals/87/df/6d/87df6d60f4cc3c07968ae2127bddcc30.gif" width="300" height="auto"/><br>
+:memo: [React Blog](https://github.com/JenHLee/react-blog/) , :clapper: [mern-netflix-app](https://github.com/JenHLee/mern-netflix-app/)<br>
 
 ## 🌱 Currently Learning
 React.js, Node.js, MongoDB
