@@ -1,7 +1,8 @@
 # Hi there👋, I'm Jennie! 
 ## About Me
 Software Development Student
-High level experience in Graphic Design and Fine Arts. Currently taking a Software Development diploma course, learning to become a full-stack developer.
+High level experience in Graphic Design and Fine Arts.<br> 
+Currently taking a Software Development diploma course, learning to become a full-stack developer.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JenHLee&label=Profile%20views&color=0e75b6&style=flat" alt="JennieLee" /> </p>
 
@@ -9,7 +10,7 @@ High level experience in Graphic Design and Fine Arts. Currently taking a Softwa
 
 ## :sparkles: Currently Working
 <img src="https://i.pinimg.com/originals/87/df/6d/87df6d60f4cc3c07968ae2127bddcc30.gif" width="300" height="auto"/><br>
-:memo: [React Blog](https://github.com/JenHLee/react-blog/) , :clapper: [mern-netflix-app](https://github.com/JenHLee/mern-netflix-app/)<br>
+:memo: [React Blog](https://github.com/JenHLee/react-blog/) , :film_projector: [mern-netflix-app](https://github.com/JenHLee/mern-netflix-app/)<br>
 
 ## 🌱 Currently Learning
 React.js, Node.js, MongoDB
