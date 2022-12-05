@@ -13,7 +13,7 @@ Currently taking a Software Development diploma course, learning to become a ful
 :memo: [React Blog](https://github.com/JenHLee/react-blog/) , :film_projector: [mern-netflix-app](https://github.com/JenHLee/mern-netflix-app/)<br>
 
 ## 🌱 Currently Learning
-React.js, Node.js, MongoDB
+React.js, TypeScript, GraphQL
 
 ## 📫 How to reach me 
 hj.jennie.lee@gmail.com <br>
