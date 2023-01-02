@@ -1,6 +1,6 @@
 # Hi there! I'm Jennie <img src="https://i.pinimg.com/originals/51/12/5d/51125d9904b0aab078e2f7d0cbf37d8a.gif" width="50" height="auto"/> 
 ## About Me
-Software Development Student
+Software Development Student <br/>
 High level experience in Graphic Design and Fine Arts.<br> 
 Currently taking a Software Development diploma course, learning to become a full-stack developer.
 
