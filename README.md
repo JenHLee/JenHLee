@@ -10,14 +10,14 @@ Currently taking a Software Development diploma course, learning to become a ful
 
 ## :sparkles: Currently Working
 <img src="https://i.pinimg.com/originals/87/df/6d/87df6d60f4cc3c07968ae2127bddcc30.gif" width="300" height="auto"/><br>
-:memo: [React Blog](https://github.com/JenHLee/react-blog/) , :film_projector: [mern-netflix-app](https://github.com/JenHLee/mern-netflix-app/)<br>
+:memo: [Next.js Blog](https://github.com/JenHLee/nextjs-blog/) , :film_projector: [mern-netflix-app](https://github.com/JenHLee/mern-netflix-app/)<br>
 
 ## 🌱 Currently Learning
 Next.js, TypeScript, GraphQL
 
 ## 📫 How to reach me 
 hj.jennie.lee@gmail.com <br>
-[Portfolio](https://jennielee.netlify.app/)
+[Portfolio](https://jennie-portfolio.netlify.app/)
 
 ## 💻 Tech Skills
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
