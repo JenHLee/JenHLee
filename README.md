@@ -1,8 +1,9 @@
 # Hi there! I'm Jennie <img src="https://i.pinimg.com/originals/51/12/5d/51125d9904b0aab078e2f7d0cbf37d8a.gif" width="50" height="auto"/> 
 ## About Me
-Software Development Student <br/>
+Full Stack Software Developer <br/>
 High level experience in Graphic Design and Fine Arts.<br> 
-Currently taking a Software Development diploma course, learning to become a full-stack developer.
+Recently completed Software Development diploma course at SAIT,<br>
+Currently working as a Full Stack Software Developer in the tech industy (ML/SaaS)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JenHLee&label=Profile%20views&color=0e75b6&style=flat" alt="JennieLee" /> </p>
 
@@ -10,7 +11,7 @@ Currently taking a Software Development diploma course, learning to become a ful
 
 ## :sparkles: Currently Working
 <img src="https://i.pinimg.com/originals/87/df/6d/87df6d60f4cc3c07968ae2127bddcc30.gif" width="300" height="auto"/><br>
-:memo: [Next.js Blog](https://github.com/JenHLee/nextjs-blog/) , :film_projector: [mern-netflix-app](https://github.com/JenHLee/mern-netflix-app/)<br>
+:memo: [Next.js Blog](https://github.com/JenHLee/nextjs-blog/) , :film_projector: [Promtopia - Next.js ChatGPT](https://github.com/JenHLee/promtopia/)<br>
 
 ## 🌱 Currently Learning
 Next.js, TypeScript, GraphQL
