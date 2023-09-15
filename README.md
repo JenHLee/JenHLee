@@ -9,8 +9,6 @@ Currently working as a Full Stack Software Developer in the tech industy (ML/Saa
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JenHLee&column=-1" alt="JennieLee" /></a> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=JenHLee)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## :sparkles: Currently Working
 <img src="https://i.pinimg.com/originals/87/df/6d/87df6d60f4cc3c07968ae2127bddcc30.gif" width="300" height="auto"/><br>
 :memo: [Next.js Blog](https://github.com/JenHLee/nextjs-blog/) , :film_projector: [Promtopia - Next.js ChatGPT](https://github.com/JenHLee/promtopia/)<br>
