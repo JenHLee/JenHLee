@@ -1,6 +1,6 @@
 # Hi there! I'm Jennie <img src="https://i.pinimg.com/originals/51/12/5d/51125d9904b0aab078e2f7d0cbf37d8a.gif" width="50" height="auto"/> 
 ## About Me
-Full Stack Software Developer <br/>
+Full Stack Developer <br/>
 High level experience in Graphic Design and Fine Arts.<br> 
 Recently completed Software Development diploma course at SAIT,<br>
 Currently working as a Full Stack Software Developer in the tech industy (ML/SaaS)
