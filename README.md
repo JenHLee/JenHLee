@@ -36,5 +36,5 @@ hj.jennie.lee@gmail.com <br>
 
 
 ## 🔗 Connect
-<a href="https://www.linkedin.com/in/hyunju-jennie-lee-405186177/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hj1ee/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hj1ee/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hj1ee/" height="30" width="40" /></a>
 
