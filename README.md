@@ -4,7 +4,6 @@ Systems Integrator | Fullstack Developer <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JenHLee&label=Profile%20views&color=0e75b6&style=flat" alt="JennieLee" /> </p>
 
 <img src="https://i.pinimg.com/originals/87/df/6d/87df6d60f4cc3c07968ae2127bddcc30.gif" width="300" height="auto"/><br>
-:memo: [Next.js Blog](https://github.com/JenHLee/nextjs-blog/) , :film_projector: [Promtopia - Next.js ChatGPT](https://github.com/JenHLee/promtopia/)<br>
 
 ## 📫 How to reach me 
 hj.jennie.lee@gmail.com <br>
